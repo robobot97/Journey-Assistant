@@ -5,3 +5,9 @@ steps:
 3. for each day of the week, find the most likely journey based on schedule
 4. display necessary info regarding this journey
 
+"""
+
+##get schedule for piccadilly line from caledonian road to kings cross stations
+#using tfl api
+#ned to automate the naptan code retrival though
+https://api.tfl.gov.uk/Line/piccadilly/Timetable/940GZZLUCAR/to/940GZZLUKSX
