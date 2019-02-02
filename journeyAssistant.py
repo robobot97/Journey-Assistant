@@ -11,3 +11,7 @@ steps:
 #using tfl api
 #ned to automate the naptan code retrival though
 https://api.tfl.gov.uk/Line/piccadilly/Timetable/940GZZLUCAR/to/940GZZLUKSX
+
+
+#will need access to the Outlook API for Uni Calendar, also need Django for this, following link explains better:
+https://github.com/jasonjoh/python_tutorial/tree/outlook-api
